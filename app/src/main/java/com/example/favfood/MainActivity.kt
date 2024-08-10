@@ -227,7 +227,7 @@ class MainActivity : ComponentActivity() {
                 dataIn = ""
 
             }) {
-                Text("Add Person")
+                Text("Add data")
             }
 
 
